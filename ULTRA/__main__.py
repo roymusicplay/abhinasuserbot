@@ -7,7 +7,7 @@ def start():
     os.system ("git clone -b new https://github.com/ULTRA-OP/ULTRA-X.git && cd ULTRA-X && python3 -m ULTRA")
   else:
     print ("You Are using Ultra X 1.0 please update your bot")
-    print ("for updating go to @abhinasroy")
+    print ("for updating go to @UltraXchaT")
     pass
 
 start()
@@ -166,8 +166,8 @@ async def legend():
 
 **➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@DOSTI_GROUP_1234**
-**➥ Father** `➪` **@abhinasroy**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@UltraXchaT**
+**➥ Cʜᴀɴɴᴇʟ** `➪` **@UltraX_SupporT**
 
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """
