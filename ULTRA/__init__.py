@@ -70,7 +70,7 @@ def HELP(**LEGENDX):
 		CMD_HELP.update({see: helper})
 	elif helper is None:
 		LEGENDX[
-		    "HELP"] = "🥺🥺NOT COMMAND HELP🥺🥺\nADDED HERE\nIF YOU WANT TO KNOW ABOUT THIS PLUG-IN\nJOIN @ULTRAXCHAT"
+		    "HELP"] = "🥺🥺NOT COMMAND HELP🥺🥺\nADDED HERE\nIF YOU WANT TO KNOW ABOUT THIS PLUG-IN\nJOIN @DOSTI_GROUP_1234"
 	else:
 	  CMD_HELP.update({see: helper})
 	CMD_HELP.update({see: helper})
@@ -255,5 +255,5 @@ ISAFK = False
 AFKREASON = None
 SUDO_LIST = {}
 
-from ULTRA.helpers import *
-from ULTRA.helpers import functions as legdef
+from Abhinas.helpers import *
+from Abhinas.helpers import functions as legdef
